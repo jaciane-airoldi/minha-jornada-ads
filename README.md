@@ -13,3 +13,9 @@ Este respositório foi criado para registrar minha evolução na área de tecnol
 -Pyton 
 -SQL
 -Testes de software 
+
+## MarkDown
+### Julho/2026
+-Criação do GitHub
+-Primeiro respositório 
+-Primeiro contato com o Git e GitHub

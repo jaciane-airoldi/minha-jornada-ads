@@ -152,4 +152,18 @@ footer {
 
 }
 
+}.hero-buttons {
+    margin-top: 25px;
+}
+
+.hero-buttons a {
+    display: inline-block;
+    margin: 8px;
+    padding: 12px 25px;
+    border-radius: 25px;
+    text-decoration: none;
+}.project {
+    padding: 20px;
+    border-radius: 20px;
+    margin-top: 20px;
 }

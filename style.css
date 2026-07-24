@@ -144,6 +144,12 @@ footer {
 
     li {
         max-width: 100%;
+    }@media (max-width: 600px) {
+
+    body {
+        padding: 20px 10px;
     }
+
+}
 
 }

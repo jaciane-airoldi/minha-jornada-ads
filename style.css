@@ -181,3 +181,10 @@ footer {
 .skill h4 {
     margin-top: 0;
 }
+.qa-button {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 12px 25px;
+    border-radius: 25px;
+    text-decoration: none;
+}

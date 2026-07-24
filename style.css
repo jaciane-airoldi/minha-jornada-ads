@@ -108,4 +108,42 @@ footer {
 
 .menu a:hover {
     background: #6b4226;
+}@media (max-width: 600px) {
+
+    body {
+        padding: 20px 10px;
+    }
+
+    .card {
+        padding: 25px 20px;
+        margin: 15px auto;
+        border-radius: 20px;
+    }
+
+    h1 {
+        font-size: 28px;
+    }
+
+    h2 {
+        font-size: 18px;
+    }
+
+    h3 {
+        font-size: 20px;
+    }
+
+    p {
+        font-size: 15px;
+    }
+
+    .menu a {
+        display: block;
+        margin: 10px auto;
+        max-width: 220px;
+    }
+
+    li {
+        max-width: 100%;
+    }
+
 }

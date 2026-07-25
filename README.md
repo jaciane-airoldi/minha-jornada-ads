@@ -18,6 +18,23 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e este repositório foi 
 - Python
 - SQL
 - Testes de Software
+## 🧪 Projetos QA
+
+### Projeto QA - Teste de Aplicação Web
+Análise de qualidade em uma aplicação web, contendo:
+- Criação de casos de teste;
+- Identificação de possíveis falhas;
+- Documentação de bug;
+- Sugestões de melhoria.
+
+📋 Casos de teste:
+[casos-de-teste.md](estudos/projetos%20QA/casos-de-teste.md)
+
+🐞 Bug report:
+[bug-report.md](estudos/projetos%20QA/bug-report.md)
+
+🧪 Projeto completo:
+[projeto-qa.md](estudos/projetos%20QA/projeto-qa.md)
 
 ## 📚 Registro de evolução
 
